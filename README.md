@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @code-bhuvanesh
-- 👀 I’m interested in android devlopment , game devlopment ,etc...
-- 🌱 I’m currently learning opengl
-- 💞️ I’m looking to collaborate on any android devlopment projects
+- 👀 I’m interested in android devlopment, flutter app devlopment , game devlopment ,etc...
+- 🌱 I’m currently learning Tesorflow
+- 💞️ I’m looking to collaborate on any android projects and also flutter
 - 📫 How to reach me email me at bhuvaneshdeavaraj@gmail.com
